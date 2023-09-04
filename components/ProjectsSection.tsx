@@ -37,6 +37,14 @@ const projects = [
     github: "https://github.com/winghojackyli/real-estate-react",
     link: "https://real-estate-react-lime.vercel.app",
   },
+  {
+    name: "ChatGPT Clone",
+    description:
+      "With this web app, users can interact with a ChatGPT-based language model to have natural language conversations. ",
+    image: "/chat.png",
+    github: "https://github.com/winghojackyli/vercel-chatgpt-clone",
+    link: "https://vercel-chatgpt-clone.vercel.app",
+  },
 ];
 
 const ProjectsSection = () => {
