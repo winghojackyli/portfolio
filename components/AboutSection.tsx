@@ -39,7 +39,7 @@ const AboutSection = () => {
               <span className="font-bold">{"highly ambitious"}</span>,
               <span className="font-bold">{" self-motivated"}</span>, and
               <span className="font-bold">{" driven"}</span> software engineer
-              based in Vancouver, BC.
+              based in Hong Kong.
             </p>
             <br />
             <p>
